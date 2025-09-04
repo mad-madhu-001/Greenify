@@ -20,9 +20,9 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="/" className="flex items-center space-x-2">
-            <img src={logo} alt="EcoVibe" className="h-8 w-auto" />
+            <img src={logo} alt="Greenify" className="h-8 w-auto" />
             <span className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              EcoVibe
+              Greenify
             </span>
           </a>
 
