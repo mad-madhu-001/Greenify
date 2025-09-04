@@ -37,9 +37,9 @@ const Footer = () => {
             {/* Brand Section */}
             <div className="lg:col-span-1 space-y-6">
               <div className="flex items-center space-x-3">
-                <img src={logo} alt="EcoVibe" className="h-10 w-auto" />
+                <img src={logo} alt="Greenify" className="h-10 w-auto" />
                 <span className="text-2xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                  EcoVibe
+                  Greenify
                 </span>
               </div>
               
