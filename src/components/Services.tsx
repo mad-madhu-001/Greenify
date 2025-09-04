@@ -9,28 +9,28 @@ const Services = () => {
       title: "Water Conservation",
       description: "Let's make every drop of water count for the planet and future generations.",
       gradient: "from-blue-500 to-cyan-400",
-      link: "#water"
+      link: "/carbon-footprint"
     },
     {
       icon: TreePine,
       title: "Forest Protection", 
       description: "Trees give us oxygen, shelter, and food—let's give them protection in return.",
       gradient: "from-green-500 to-emerald-400",
-      link: "#trees"
+      link: "/tree-conservation"
     },
     {
       icon: Lightbulb,
       title: "Energy Efficiency",
       description: "Small steps like saving energy lead to big environmental changes.",
       gradient: "from-yellow-500 to-orange-400", 
-      link: "#energy"
+      link: "/wind-energy"
     },
     {
       icon: Sun,
       title: "Solar Solutions",
       description: "From sunlight to savings—solar panels are a smart choice for the environment.",
       gradient: "from-orange-500 to-red-400",
-      link: "#solar"
+      link: "/solar-energy"
     }
   ];
 

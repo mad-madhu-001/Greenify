@@ -7,11 +7,11 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const navItems = [
-    { label: "Home", href: "#home" },
-    { label: "About", href: "#about" },
-    { label: "Services", href: "#services" },
-    { label: "Projects", href: "#projects" },
-    { label: "Donate", href: "#donate" },
+    { label: "Home", href: "/" },
+    { label: "About", href: "/#about" },
+    { label: "Services", href: "/#services" },
+    { label: "Projects", href: "/#projects" },
+    { label: "Donate", href: "/#donate" },
   ];
 
   return (
@@ -19,7 +19,7 @@ const Header = () => {
       <div className="container mx-auto px-4 lg:px-6">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <a href="#home" className="flex items-center space-x-2">
+          <a href="/" className="flex items-center space-x-2">
             <img src={logo} alt="EcoVibe" className="h-8 w-auto" />
             <span className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
               EcoVibe
