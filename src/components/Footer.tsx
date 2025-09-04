@@ -136,7 +136,7 @@ const Footer = () => {
         <div className="py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-muted-foreground">
-              © 2024 EcoVibe. All rights reserved. Made with 💚 for the planet.
+              © 2024 Greenify. All rights reserved. Made with 💚 for the planet.
             </div>
             
             <div className="flex items-center space-x-6 text-sm">
