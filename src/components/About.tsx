@@ -37,7 +37,7 @@ const About = () => {
           {/* Content */}
           <div className="space-y-6">
             <div className="inline-flex items-center px-4 py-2 bg-primary/10 rounded-full">
-              <span className="text-sm font-medium text-primary">About EcoVibe</span>
+              <span className="text-sm font-medium text-primary">About Greenify</span>
             </div>
 
             <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight">
