@@ -2,13 +2,13 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e6337858-382d-43a8-a9dd-7ca39193c659
+**URL**: https://ecogreeny.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e6337858-382d-43a8-a9dd-7ca39193c659) and start prompting.
+Simply visit the [Greenify Project](https://ecogreeny.netlify.app/) and start prompting.
 
 Changes made via will be committed automatically to this repo.
 
@@ -59,11 +59,11 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/e6337858-382d-43a8-a9dd-7ca39193c659) and click on Share -> Publish.
+Simply open [Greenify](https://greenify.dev/projects/e6337858-382d-43a8-a9dd-7ca39193c659) and click on Share -> Publish.
 
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.greenify.dev/tips-tricks/custom-domain#step-by-step-guide)
